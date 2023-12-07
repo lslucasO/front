@@ -1,6 +1,6 @@
 .gallery-section{
     display: grid;
-    grid-template-columns: 350px 350px 350px 350px;
+    grid-template-columns: 330px 330px 330px 330px;
     padding: 50px;
  
     
