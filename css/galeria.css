@@ -1,0 +1,23 @@
+.gallery-section{
+    display: grid;
+    grid-template-columns: 350px 350px 350px 350px;
+    padding: 50px;
+ 
+    
+}
+
+.card-gallery{
+    cursor: pointer;
+    background-color: white;
+    height: 500px;
+    width: 320px;
+    border-radius: 10px;
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.267);
+    transition: 0.3s;
+}
+
+
+.img-gallery{
+    height: 300px;
+    width: 320px;
+}
